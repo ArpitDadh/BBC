@@ -2,7 +2,9 @@
 
 ## Description
 
-    A app with video player that stops on the give time slots and Add `NameSuper` and `Title` on different time defined.
+    A app with video player that stops on the give 
+    time slots and Add `NameSuper` and `Title` on 
+    different time defined.
 
 It a dynamic time defined app. If you add few more stops and add diferent text on screen
 
