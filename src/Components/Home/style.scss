@@ -1,0 +1,44 @@
+.home-page {
+  height: 100vh;
+  &__logo {
+    padding: 1%;
+    display: flex;
+  }
+  &__title-tile {
+    color: #f1f1f1;
+    padding: 0px 20px;
+    margin: 0px 20px;
+  }
+  &__title {
+    display: flex;
+    align-items: center;
+    height: 73vh;
+    padding-left: 5%;
+  }
+  &__lines {
+    padding-left: 2%;
+    bottom: 0px;
+    position: absolute;
+    
+  }
+  &__line1 {
+    display: flex;
+  }
+  &__line2 {
+    display: flex;
+  }
+  &__video-player {
+    position: absolute;
+  }
+  &__text-container {
+    position: relative;
+  }
+  &__lines, &__lines1, &__lines2 {
+    position: absolute;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    padding: 0px 20px;
+    margin: 0px 20px;
+  }
+}
