@@ -20,7 +20,7 @@ const Home = () => {
   const [playVideo, setPlayVideo] = useState(true);
 
   const videoProgress = (timePlayed) => {
-    console.log("Ee")
+
     const removeExtra = timePlayed.toFixed(2);
 
     if(removeExtra in LINE1_OBJECT) {
